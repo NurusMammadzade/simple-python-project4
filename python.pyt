@@ -12,7 +12,6 @@ for i in range(60):
    ts.right(3)
    ts.left(30)
    ts.circle(95)
-   
    ts.right(6)
    ts.left(60)
    ts.circle(180)
